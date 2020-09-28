@@ -1,0 +1,8 @@
+*~
+__pycache__/
+/__pycache__
+.idea/
+train/bad_label.list
+yolo/data/.cls.name
+yolo/data/.train.data
+yolo/data/.train.txt
