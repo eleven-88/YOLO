@@ -6,3 +6,6 @@ train/bad_label.list
 yolo/data/.cls.name
 yolo/data/.train.data
 yolo/data/.train.txt
+yolo/darknet/darknet
+yolo/darknet/obj/
+yolo/darknet/backup/
